@@ -155,9 +155,9 @@ body {
 }
 
 #parte2{
-    height: 100vh;
+    height: 70vh;
     background-size: cover;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -165,9 +165,9 @@ body {
 
 }
 #parte3{
-    height: 100vh;
+    height: 70vh;
     background-size: cover;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -176,9 +176,9 @@ body {
 }
 
 #parte4{
-    height: 100vh;
+    height: 70vh;
     background-size: cover;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -188,9 +188,9 @@ body {
 
 
 #parte5{
-    height: 100vh;
+    height: 70vh;
     background-size: cover;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -203,7 +203,7 @@ body {
  #parte6{
     height: 300vh;
     background-size: cover;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -239,14 +239,27 @@ body {
 .esquerda{
     font-size: 1em;
     width: 35%;
-
+    color: rgb(233, 211, 183);
+    justify-content: center;
+    align-items: center;
+    font-size: 13px
 }
 
 
 .centro{
     width: 30%;
     font-size: 2em;
+    color: rgb(233, 211, 183);
 
+
+
+}
+.centro h6{
+    color: rgb(233, 211, 183);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
 
 }
 .direita{
